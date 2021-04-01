@@ -1,0 +1,55 @@
+.column {
+  float:left;
+  width: 40%;
+  padding: 20px;
+  height: 1200px;
+  background-color: black;
+}
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+img {
+  height: 250px;
+  width: 600px;
+}
+body {
+  background-image: url(lasvegas.jpg);
+}
+h1 {
+  color: antiquewhite;
+  font-size: 70px;
+  text-align: center;
+}
+h2 {
+  color: antiquewhite;
+  font-size: 40px;
+}
+h3 {
+  color: antiquewhite;
+  font-size: 30px;
+}
+p {
+  color: antiquewhite;
+}
+a {
+  color: red;
+}
+ol {
+  color: antiquewhite;
+}
+li {
+  color: antiquewhite;
+}
+a {
+  color: antiquewhite;
+}
+.popular {
+font-style: italic;
+font-size: large;
+}
+.tropical {
+  font-weight: 300;
+  font-size: large;
+}
