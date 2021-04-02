@@ -2,7 +2,7 @@
   float:left;
   width: 40%;
   padding: 20px;
-  height: 1200px;
+  height: 1250px;
   background-color: black;
 }
 .row {
@@ -15,7 +15,7 @@ img {
   width: 600px;
 }
 body {
-  background-image: url(lasvegas.jpg);
+  background-image: url(lasvegas.jpeg);
 }
 h1 {
   color: antiquewhite;
